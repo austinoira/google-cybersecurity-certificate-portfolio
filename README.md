@@ -3,7 +3,7 @@
 
 ![In Progress](https://img.shields.io/badge/status-in%20progress-blue) ![Google](https://img.shields.io/badge/issuer-Google-4285F4?logo=google&logoColor=white) ![Coursera](https://img.shields.io/badge/platform-Coursera-0056D2?logo=coursera&logoColor=white)
 
-A repository documenting labs, projects, and notes completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
+This repository documents my work for the labs, projects, and notes completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
 ---
 
