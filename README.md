@@ -58,3 +58,29 @@ google-cybersecurity-certificate/
 Biomedical Engineering graduate with a focus on medical device security and IoT/IoMT systems. This certificate supports a career path in product security and cybersecurity for medical devices.
 
 📎 [LinkedIn](https://www.linkedin.com/in/austin-oira) · [GitHub](https://github.com/austinoira)
+
+---
+## Course Progress
+
+### Course 1 | Foundations of Cybersecurity
+Covers core security concepts, the history of cybersecurity, security ethics,
+and an introduction to NIST frameworks and the CIA Triad.
+
+📁 [`module-1-foundations/`](./module-1-foundations/)
+
+---
+
+### Course 2 | Play It Safe: Managing Security Risks
+Covers security risk management using frameworks and controls, including
+NIST RMF, NIST CSF, OWASP principles, and security playbooks for incident
+response.
+
+**Portfolio Activity:** Conducted an internal security audit for Botium
+Toys, a fictional company, evaluating controls and compliance across PCI
+DSS, GDPR, and SOC 1/SOC 2 frameworks. Identified critical gaps in access
+control, encryption, and data classification and provided remediation
+recommendations. Includes a self-assessment reflection comparing my audit
+results against the provided exemplar, analyzing discrepancies in control
+adequacy judgment.
+
+📁 [`module-2-risk/`](./module-2-risk/)
